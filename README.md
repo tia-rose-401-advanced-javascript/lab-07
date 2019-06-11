@@ -7,7 +7,7 @@ Api-Server
 Tia Rose and Edric DeArment
 
 ### Links and Resources
-* [submission PR](https://github.com/tia-rose-401-advanced-javascript/lab-07-middleware/pull/1)
+* [submission PR](https://github.com/tia-rose-401-advanced-javascript/lab-07/pull/1)
 * [back-end](https://agile-everglades-27717.herokuapp.com/) 
 
 
