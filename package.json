@@ -1,7 +1,7 @@
 {
   "name": "api-client",
   "version": "1.0.0",
-  "description": "",
+  "description": "Api-Server",
   "main": "index.js",
   "scripts": {
     "lint": "eslint **/*.js",
@@ -19,5 +19,21 @@
     "method-override": "^3.0.0",
     "superagent": "^4.0.0-beta.5",
     "supertest": "^3.3.0"
-  }
+  },
+  "devDependencies": {
+    "jsdoc": "^3.6.2",
+    "swagger-jsdoc": "^3.2.9",
+    "swagger-ui-express": "^4.0.5"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourname-401-advanced-javascript/lab-07.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourname-401-advanced-javascript/lab-07/issues"
+  },
+  "homepage": "https://github.com/yourname-401-advanced-javascript/lab-07#readme"
 }
